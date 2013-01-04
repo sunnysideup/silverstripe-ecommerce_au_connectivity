@@ -1,0 +1,21 @@
+{
+	"name": "silverstripe/ecommerce_au_connectivity",
+	"type": "silverstripe-module",
+	"description": "Connect your silverstripe application with Australia Post",
+	"homepage": "http://www.silverstripe-ecommerce.com",
+	"keywords": ["ecommerce", "e-commerce", "shop", "au connectivity","australia connectivity","australia", "silverstripe"],
+	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+	"authors":[
+		{
+			"name": "Nicolaas Francken",
+			"homepage": "https://github.com/sunnysideup",
+			"email" : "modules@sunnysideup.co.nz",
+			"role" : "lead developer"
+		}
+	],
+	"require":{
+		"php": ">=5.3.2",
+		"silverstripe/framework": ">=2.4.0",
+		"silverstripe/ecommerce": ">=2.4.0"
+	}
+}
