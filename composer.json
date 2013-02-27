@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/ecommerce_au_connectivity",
+	"name": "sunnysideup/ecommerce_au_connectivity",
 	"type": "silverstripe-module",
 	"description": "Connect your silverstripe application with Australia Post",
 	"homepage": "http://www.silverstripe-ecommerce.com",
